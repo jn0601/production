@@ -172,7 +172,7 @@
                 </div>
             </div>
         </div>
+        <script src="{{ asset(mix('react/app.js')) }}"></script>
     </body>
 
-    <script src="{{ asset(mix('react/app.js')) }}"></script>
 </html>
